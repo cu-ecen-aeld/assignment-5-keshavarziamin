@@ -9,8 +9,6 @@ git submodule init
 git submodule sync
 git submodule update
 
-exit 0
-
 set -e 
 cd `dirname $0`
 
